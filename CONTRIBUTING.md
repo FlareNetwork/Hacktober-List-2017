@@ -1,4 +1,4 @@
-##### ADD YOUR USERNAME TO THE LIST & index.html <3 Happy Hacktoberfest 2017!
+##### ADD YOUR USERNAME TO THE LIST & index.html <3 Happy Hacktoberfest 2018!
 
 ++ karate
 ++ petro36
@@ -10,3 +10,4 @@
 ++ codeSmart2307
 ++ hanapotski
 ++ julicheng
+++ manorit2001

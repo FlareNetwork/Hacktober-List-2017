@@ -1,42 +1,51 @@
-body {
+body 
+{
 	background-color: #2e3d91!important;
 }
 
 
-.alert-success {
+.alert-success 
+{
 	background-color: #2e3d91!important;
 }
 
-.ophosting {
+.ophosting 
+{
   position:absolute;
   bottom:0;
   right:0;
 }
 
-.panel {
+.panel
+{
 	background-color: #fff;
 }
 
-.panel > p > a {
+.panel > p > a
+{
 	color: #000;
 	padding:1em 0;
 	transition: background-color .2s ease-in;
 }
 
-.panel-body > p:hover {
+.panel-body > p:hover
+{
 	background-color: #efefef;
 }
 
-.panel-footer {
+.panel-footer 
+{
 	color: #000;
 }
 
-.fa {
+.fa 
+{
 	color: #2e3d91!important;
 	padding-right: 5px;
 	font-size: 22px;
 }
 
-.panel-primary > .panel-heading {
+.panel-primary > .panel-heading 
+{
 	background-color: #ff625f!important;
 }
